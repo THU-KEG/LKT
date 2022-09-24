@@ -1,0 +1,1 @@
+epoch= 4, accuracy= 0.777374, rmse= 0.395705, auc= 0.755688
