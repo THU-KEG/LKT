@@ -8,11 +8,13 @@ The code is the implementation of NeuralCDM model, and the data set is the publi
 If this code helps with your studies, please kindly cite the following publication:
 
 ```
-@article{wang2020neural,
-  title={Neural Cognitive Diagnosis for Intelligent Education Systems},
-  author={Wang, Fei and Liu, Qi and Chen, Enhong and Huang, Zhenya and Chen, Yuying and Yin, Yu and Huang, Zai and Wang, Shijin},
-  booktitle={Thirty-Fourth AAAI Conference on Artificial Intelligence},
-  year={2020}
+@inproceedings{mao2021learning,
+  title={Learning Behavior-Aware Cognitive Diagnosis for Online Education Systems},
+  author={Mao, Yiming and Xu, Bin and Yu, Jifan and Fang, Yifan and Yuan, Jie and Li, Juanzi and Hou, Lei},
+  booktitle={International Conference of Pioneering Computer Scientists, Engineers and Educators},
+  pages={385--398},
+  year={2021},
+  organization={Springer}
 }
 ```
 
