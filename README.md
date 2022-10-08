@@ -1,8 +1,8 @@
-# Neural Cognitive Diagnosis for Intelligent Education Systems
+# Learning Behavior-Aware Cognitive Diagnosis for Online Education Systems
 
-Source code and data set for the paper *Neural Cognitive Diagnosis for Intelligent Education Systems*.
+Source code and data set for the paper *Learning Behavior-Aware Cognitive Diagnosis for Online Education Systems*.
 
-The code is the implementation of NeuralCDM model, and the data set is the public data set [ASSIST2009-2010](https://sites.google.com/site/assistmentsdata/home/assistment2009-2010-data/skill-builder-data-2009-2010
+The code is the implementation of LKT model, and the data set is the public data set [ASSIST2009-2010] and MOOC-LKT (https://sites.google.com/site/assistmentsdata/home/assistment2009-2010-data/skill-builder-data-2009-2010
 ).
 
 If this code helps with your studies, please kindly cite the following publication:
